@@ -1,0 +1,31 @@
+body {
+  background-color:#F0E943;
+  font-family: 'Press Start 2P', cursive;
+}
+#footer {
+  background-color:#FFFFFF;
+  text-align:center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.topo {
+  text-align:center;
+}
+.menu li{
+  text-decoration:none;
+  display:inline;
+}
+a:hoover{
+  text-decoration:none;
+}
+
+.imgs {
+  margin:20px 60px 20px 100px;
+}
+
+.jumbotron p {
+  font-size:13px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
